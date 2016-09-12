@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256701913143",
+    "project_id": "note-pad-1372"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256701913143:android:6698a3e13dcb5c7b",
+        "android_client_info": {
+          "package_name": "com.ay3524.notepadadvanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256701913143-t794sp00ua7cautq2godvcpdhs8lbirm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ay3524.notepadadvanced",
+            "certificate_hash": "0B880F5CD39CCEC2EA761288F472227B54B7269C"
+          }
+        },
+        {
+          "client_id": "256701913143-s0aeeavs62ouvocn6qjltdc7mllo0fgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmgGebcBtChhtOGSPoZWmo0Ea9Db-r-98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
