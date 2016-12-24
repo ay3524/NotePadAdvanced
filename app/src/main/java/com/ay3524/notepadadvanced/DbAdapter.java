@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DbAdapter {
+class DbAdapter {
 
     DbHelper helper;
     public DbAdapter(Context context){
